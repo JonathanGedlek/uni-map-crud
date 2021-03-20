@@ -1,0 +1,56 @@
+[
+    {
+        "loc": "Charles Sikes",
+        "lat": 53.64316114629931,
+        "lng": -1.7762545795236462,
+        "text": "<li>Oriental Noodle Bar, Level 1</li><li>Street Cafe, Level 1</li>"
+    },
+    {
+        "loc": "Student Central",
+        "lat": 53.644448287076,
+        "lng": -1.776944575217707,
+        "text": "<li>International Kitchen, Level 4</li><li>Irie Eats Caribbean Food, Level 4</li><li>NEO Pizza & Pasta, Level 4</li><li>Cafe Central, Level 4</li><li>Veggie Hut, Level 5</li>"
+    },
+    {
+        "loc": "Oastler",
+        "lat": 53.644691111717634,
+        "lng": -1.7772598422886765,
+        "text": "<li>Oastler Coffee Pod, Level 4</li>"
+    },
+    {
+        "loc": "Haslett",
+        "lat": 53.64177246797786,
+        "lng": -1.7774383522543857,
+        "text": "<li>The Mill Cafe, Level 2"
+    },
+    {
+        "loc": "Sp\u00e4rck Jones",
+        "lat": 53.641322815050174,
+        "lng": -1.7782027154326974,
+        "text": "<li>Espresso Deli @ Weavers, Ground Floor</li>"
+    },
+    {
+        "loc": "Barbara Hepworth",
+        "lat": 53.641580126965565,
+        "lng": -1.779144623309552,
+        "text": "<li>Coffee Pod, Ground Floor</li>"
+    },
+    {
+        "loc": "Sovereign Design House",
+        "lat": 53.641876345980826,
+        "lng": -1.780794139990578,
+        "text": "<li>The Toast House</li>"
+    },
+    {
+        "loc": "Joseph Priestley",
+        "lat": 53.64338067801307,
+        "lng": -1.7789811715339376,
+        "text": "<li>Caffeine Lab, Ground Floor</li>"
+    },
+    {
+        "loc": "Harold Wilson",
+        "lat": 53.643629630799964,
+        "lng": -1.7785588934182828,
+        "text": "<li>Burrito Cantina at No.10 Cafe, Level 1"
+    }
+]

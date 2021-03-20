@@ -1,0 +1,2227 @@
+[
+    {
+        "id":0,
+        "b_id": "bic",
+        "b_campus": "huddersfield",
+        "b_name": "3M Buckley Innovation Centre (BIC)",
+        "b_lat": "53.641667600000",
+        "b_lng": "-1.776942000000",
+        "b_description": "The 3M Buckley Innovation Centre is a brand new \u00a313M building which promotes economic growth through work with businesses.  With access to markets, finance, technology and skills alongside a wealth of business support services.",
+        "b_departments": "<li>Open to all departments within the University<\/li>",
+        "b_facilities": "<li>A collection of state of the art technology which help to push the boundaries of research and innovation<\/li><li>High performance computing systems for modelling and visualisation<\/li>",
+        "b_background": "3mbuckley.jpg",
+        "b_map_label_class": "marker-label",
+        "b_map_label_offset": "50 57",
+        "coordinates": [
+            {
+                "lat": 53.64195866910732,
+                "lng": -1.7766787747134805
+            },
+            {
+                "lat": 53.64193998552139,
+                "lng": -1.7767223606099725
+            },
+            {
+                "lat": 53.64187399661976,
+                "lng": -1.776788745283091
+            },
+            {
+                "lat": 53.641868463039984,
+                "lng": -1.7767711960498045
+            },
+            {
+                "lat": 53.64182344943391,
+                "lng": -1.7768208799262375
+            },
+            {
+                "lat": 53.64183537516096,
+                "lng": -1.7768520606060356
+            },
+            {
+                "lat": 53.64123872487216,
+                "lng": -1.7775640054604458
+            },
+            {
+                "lat": 53.641164284176604,
+                "lng": -1.7773623207605649
+            },
+            {
+                "lat": 53.64159869674465,
+                "lng": -1.7768556671023572
+            },
+            {
+                "lat": 53.64159031613935,
+                "lng": -1.7768325462322787
+            },
+            {
+                "lat": 53.64174470656231,
+                "lng": -1.7766530031094296
+            },
+            {
+                "lat": 53.64177094320634,
+                "lng": -1.7766969242820485
+            },
+            {
+                "lat": 53.64180881475846,
+                "lng": -1.7766350055168134
+            },
+            {
+                "lat": 53.6417851620483,
+                "lng": -1.7765733147094709
+            },
+            {
+                "lat": 53.64184455724818,
+                "lng": -1.7765027174016912
+            },
+            {
+                "lat": 53.64186955245691,
+                "lng": -1.7765446269175489
+            },
+            {
+                "lat": 53.64190958046737,
+                "lng": -1.7764812782561523
+            }
+        ]
+    },
+    {
+        "id":1,
+        "b_id": "bh",
+        "b_campus": "huddersfield",
+        "b_name": "Barbara Hepworth Building (BH)",
+        "b_lat": "53.641584",
+        "b_lng": "-1.779106",
+        "b_description": null,
+        "b_departments": null,
+        "b_facilities": "<li>Art Studio Space<\/li><li>PC Labs<\/li><li>Laser Cutting Workshops<\/li><li>3D Printing<\/li><li>Photography Studios<\/li><li>Digital Art Laboratory<\/li>",
+        "b_background": "barbarahepworth.jpg",
+        "b_map_label_class": "marker-label",
+        "b_map_label_offset": "50 57",
+        "coordinates": [
+            {
+                "lat": 53.64174209369577,
+                "lng": -1.77851859622574
+            },
+            {
+                "lat": 53.64133502607221,
+                "lng": -1.7793125300941481
+            },
+            {
+                "lat": 53.64167212922756,
+                "lng": -1.7798489718971267
+            },
+            {
+                "lat": 53.641913824171155,
+                "lng": -1.7797524123725905
+            }
+        ]
+    },
+    {
+        "id":2,
+        "b_id": "brh",
+        "b_campus": "huddersfield",
+        "b_name": "Bridge House",
+        "b_lat": "53.645210200000",
+        "b_lng": "-1.774678200000",
+        "b_description": null,
+        "b_departments": null,
+        "b_facilities": null,
+        "b_background": null,
+        "b_map_label_class": "marker-label",
+        "b_map_label_offset": "50 57",
+        "coordinates": [
+            {
+                "lat": 53.645016265715554,
+                "lng": -1.774710766594152
+            },
+            {
+                "lat": 53.64514266868111,
+                "lng": -1.7746470641300482
+            },
+            {
+                "lat": 53.645136706285605,
+                "lng": -1.7746028076813025
+            },
+            {
+                "lat": 53.645273752340806,
+                "lng": -1.774537210760767
+            },
+            {
+                "lat": 53.64528567709226,
+                "lng": -1.7745895138365575
+            },
+            {
+                "lat": 53.64538354398504,
+                "lng": -1.7745430336959411
+            },
+            {
+                "lat": 53.64540262353605,
+                "lng": -1.7746416048772384
+            },
+            {
+                "lat": 53.64531459115906,
+                "lng": -1.774680736846983
+            },
+            {
+                "lat": 53.645313398684884,
+                "lng": -1.7746767135334607
+            },
+            {
+                "lat": 53.64530226892429,
+                "lng": -1.7746824132276173
+            },
+            {
+                "lat": 53.64530366014453,
+                "lng": -1.7746897893024083
+            },
+            {
+                "lat": 53.64516118647755,
+                "lng": -1.7747558945994846
+            },
+            {
+                "lat": 53.64515919901335,
+                "lng": -1.7747444952111713
+            },
+            {
+                "lat": 53.645146081747214,
+                "lng": -1.7747515360098354
+            },
+            {
+                "lat": 53.645148267958525,
+                "lng": -1.7747662881594173
+            },
+            {
+                "lat": 53.64503183741123,
+                "lng": -1.7748198820798788
+            }
+        ]
+    },
+    {
+        "id":3,
+        "b_id": "wblt",
+        "b_campus": "huddersfield",
+        "b_name": "Joseph Priestley, Bront\u00eb Lecture Theatres, and  Journalism & Media",
+        "b_lat": "53.643143",
+        "b_lng": "-1.779123",
+        "b_description": "The Joseph Priestly Building is a large Z-shaped building with teaching and office accommodation for the School of Applied Sciences and the School of Music and Humanities. Engineering labs and workshops and the Media studios are located towards the western end, along with the Bront\u00eb lecture theatre, entered opposite the technology building.",
+        "b_departments": "<li>Applied Sciences<\/li><li>Humanities and Media<\/li><li>Bront\u00eb Lecture Theatres<\/li>",
+        "b_facilities": "<li>Chemical Engineering Laboratory<\/li><li>Resource Centre<\/li><li>Crime Scene Room<\/li><li>NMR Mass Spectrometry Lab<\/li><li>SEM - Electron Microscope<\/li><li>Courtyard cafe<\/li><li>Panasonic HD Television Studio<\/li><li>Two digital radio studios<\/li><li>Radio Production resources<\/li><li>Broadcast media location<\/li><li>Filming and editing suites<\/li><li>IT and Print Production resources<\/li>",
+        "b_background": "josephpriestly.jpg",
+        "b_map_label_class": "marker-label",
+        "b_map_label_offset": "50 57",
+        "coordinates": [
+            {
+                "lat": 53.64304935836365,
+                "lng": -1.7786693902130168
+            },
+            {
+                "lat": 53.64305253846542,
+                "lng": -1.778303268682484
+            },
+            {
+                "lat": 53.64268602692593,
+                "lng": -1.7782683999652904
+            },
+            {
+                "lat": 53.64267734968985,
+                "lng": -1.7789218727660616
+            },
+            {
+                "lat": 53.642680331061555,
+                "lng": -1.7789218727660616
+            },
+            {
+                "lat": 53.642688961292514,
+                "lng": -1.779050238624904
+            },
+            {
+                "lat": 53.64275080966733,
+                "lng": -1.7793833329757058
+            },
+            {
+                "lat": 53.643362177481826,
+                "lng": -1.7791875347260322
+            },
+            {
+                "lat": 53.643432176216756,
+                "lng": -1.7798606794203575
+            },
+            {
+                "lat": 53.643231445756236,
+                "lng": -1.7799353676712015
+            },
+            {
+                "lat": 53.64321656302753,
+                "lng": -1.7798948442820972
+            },
+            {
+                "lat": 53.64317422806765,
+                "lng": -1.7799116080884403
+            },
+            {
+                "lat": 53.64315713506713,
+                "lng": -1.7798358356837696
+            },
+            {
+                "lat": 53.64312470054527,
+                "lng": -1.7798484053272157
+            },
+            {
+                "lat": 53.643139607243604,
+                "lng": -1.7799674283522515
+            },
+            {
+                "lat": 53.6431262394651,
+                "lng": -1.7799735393322935
+            },
+            {
+                "lat": 53.643202899535915,
+                "lng": -1.7804801893501732
+            },
+            {
+                "lat": 53.64358886849337,
+                "lng": -1.780340988566913
+            },
+            {
+                "lat": 53.64352757167094,
+                "lng": -1.779826630450354
+            },
+            {
+                "lat": 53.64346068300159,
+                "lng": -1.7798508930827572
+            },
+            {
+                "lat": 53.64345054652443,
+                "lng": -1.7797710973645642
+            },
+            {
+                "lat": 53.64350421019928,
+                "lng": -1.779749639692445
+            },
+            {
+                "lat": 53.643391251066035,
+                "lng": -1.7789083857975996
+            },
+            {
+                "lat": 53.643283560660656,
+                "lng": -1.7789454689847606
+            },
+            {
+                "lat": 53.642845695453374,
+                "lng": -1.7791271371352035
+            },
+            {
+                "lat": 53.64283434845924,
+                "lng": -1.778995327768822
+            },
+            {
+                "lat": 53.64283643061936,
+                "lng": -1.7786615428339703
+            },
+            {
+                "lat": 53.64290679067031,
+                "lng": -1.7786642250429852
+            },
+            {
+                "lat": 53.64290718818438,
+                "lng": -1.7787084814917309
+            },
+            {
+                "lat": 53.642969854615124,
+                "lng": -1.7787122160509328
+            },
+            {
+                "lat": 53.64297223969598,
+                "lng": -1.7786672890499333
+            }
+        ]
+    },
+    {
+        "id":4,
+        "b_id": "bs",
+        "b_campus": "huddersfield",
+        "b_name": "Charles Sikes Building (CS)",
+        "b_lat": "53.643216400000",
+        "b_lng": "-1.776180200000",
+        "b_description": "Located in a new \u00a317m building in an attractive waterfront setting on the University's town centre campus, the University of Huddersfield Business School is a dynamic academic community that aims to deliver an inspirational learning experience and pioneering research.\n\nWe are a major provider of business and legal education, with around 6,000 full-time, part-time and distance learning students on Undergraduate honours degrees, Master's courses and doctorates.",
+        "b_departments": "<li>Accountancy<\/li><li>Leadership and Management<\/li><li>Logistics and Hospitality Management<\/li><li>Strategy and Marketing<\/li><li>The Law School<\/li>",
+        "b_facilities": "<li>The Street social space comprising a wide curving, glazed corridor, with soft seating, tables, WiFi internet access, vending facilities and coffee shop.<\/li><li>Outdoor terrace overlooking the central courtyard.<\/li><li>Special facility for Law students including a mock court room.<\/li><li>Fully equipped teaching space with excellent IT facilities.<\/li><li>Spectacular views of the canal from the roof level terrace.<\/li>",
+        "b_background": "charlessikes.jpg",
+        "b_map_label_class": "marker-label",
+        "b_map_label_offset": "50 58",
+        "coordinates": [
+            {
+                "lat": 53.64347273046712,
+                "lng": -1.7760828901653758
+            },
+            {
+                "lat": 53.643433973346525,
+                "lng": -1.776165467860138
+            },
+            {
+                "lat": 53.64340326644338,
+                "lng": -1.776215758815678
+            },
+            {
+                "lat": 53.643370043149524,
+                "lng": -1.7762511948242654
+            },
+            {
+                "lat": 53.6433310558775,
+                "lng": -1.7762862777576238
+            },
+            {
+                "lat": 53.64329026976073,
+                "lng": -1.7763109204714533
+            },
+            {
+                "lat": 53.64324997376943,
+                "lng": -1.7763266784494158
+            },
+            {
+                "lat": 53.643206661443344,
+                "lng": -1.776330825289787
+            },
+            {
+                "lat": 53.64314881380019,
+                "lng": -1.7763255931760047
+            },
+            {
+                "lat": 53.64308062046386,
+                "lng": -1.7762897041660208
+            },
+            {
+                "lat": 53.64305232706644,
+                "lng": -1.7762655185921172
+            },
+            {
+                "lat": 53.64300323973971,
+                "lng": -1.7762082672531077
+            },
+            {
+                "lat": 53.64294286462084,
+                "lng": -1.7761079513927491
+            },
+            {
+                "lat": 53.642982814732825,
+                "lng": -1.7760583305259736
+            },
+            {
+                "lat": 53.642959361437846,
+                "lng": -1.7759979808231385
+            },
+            {
+                "lat": 53.642768849842994,
+                "lng": -1.7762124878410268
+            },
+            {
+                "lat": 53.64270718284053,
+                "lng": -1.776065917200782
+            },
+            {
+                "lat": 53.64297318334057,
+                "lng": -1.7757493276757463
+            },
+            {
+                "lat": 53.64300657445756,
+                "lng": -1.7758103479308351
+            },
+            {
+                "lat": 53.643018102337045,
+                "lng": -1.7757979427141413
+            },
+            {
+                "lat": 53.643012139641165,
+                "lng": -1.7757821847361788
+            },
+            {
+                "lat": 53.64317912436358,
+                "lng": -1.7755856272423376
+            },
+            {
+                "lat": 53.64319124846299,
+                "lng": -1.7756030616009344
+            },
+            {
+                "lat": 53.64322372005661,
+                "lng": -1.775566204155199
+            },
+            {
+                "lat": 53.64331949296986,
+                "lng": -1.7756415125910063
+            },
+            {
+                "lat": 53.643323865581706,
+                "lng": -1.7756267604414244
+            },
+            {
+                "lat": 53.64351289179198,
+                "lng": -1.7757821983146171
+            },
+            {
+                "lat": 53.64352951194652,
+                "lng": -1.7757730282949935
+            },
+            {
+                "lat": 53.64359667373831,
+                "lng": -1.7758283592612623
+            },
+            {
+                "lat": 53.643619729171554,
+                "lng": -1.775935647621858
+            },
+            {
+                "lat": 53.64359028421121,
+                "lng": -1.7760446977154332
+            },
+            {
+                "lat": 53.64351456598085,
+                "lng": -1.776082086525741
+            }
+        ]
+    },
+    {   "id":5,
+        "b_id": "rw",
+        "b_campus": "huddersfield",
+        "b_name": "Cockcroft Building (CO)",
+        "b_lat": "53.643073300000",
+        "b_lng": "-1.779640400000",
+        "b_description": "The Cockcroft Building is home to facilities used by the 3D and transport design, and interior design courses.",
+        "b_departments": "<li>Art and Design<\/li><li>Architecture and 3D Design<\/li>",
+        "b_facilities": null,
+        "b_background": "cockroft.jpg",
+        "b_map_label_class": "marker-label",
+        "b_map_label_offset": "50 57",
+        "coordinates": [
+            {
+                "lat": 53.64331230627331,
+                "lng": -1.7797676540177565
+            },
+            {
+                "lat": 53.64330455482256,
+                "lng": -1.7797093159716826
+            },
+            {
+                "lat": 53.64333387314317,
+                "lng": -1.7796981926914057
+            },
+            {
+                "lat": 53.64332604039836,
+                "lng": -1.7796459645122042
+            },
+            {
+                "lat": 53.64329881094573,
+                "lng": -1.7796550169676295
+            },
+            {
+                "lat": 53.643259537771605,
+                "lng": -1.7793692377506787
+            },
+            {
+                "lat": 53.64296271674316,
+                "lng": -1.77948035055002
+            },
+            {
+                "lat": 53.6430167062305,
+                "lng": -1.7798801460218083
+            }
+        ]
+    },
+    {
+        "id":6,
+        "b_id": "hhrb",
+        "b_campus": "huddersfield",
+        "b_name": "Edith Key, George Buckley & Researcher Hub",
+        "b_lat": "53.642217800000",
+        "b_lng": "-1.778374300000",
+        "b_description": "More than just a place to do research: opened in 2012, the Researcher Hub is a purpose built facility for research and researchers; right in the heart of the campus. The Researcher Hub is a Research and Enterprise initiative set to encourage research students and research staff to collaborate and problem solve with each other, creating an energetic research community space. The Researcher Hub has an array of sophisticated state-of-the-art facilities and hosts a wide range of events including International and National Conferences, Public Lecture Series, research skills training and social gatherings all in the pursuit of building a strong collegiate research community at the heart of the campus.",
+        "b_departments": null,
+        "b_facilities": null,
+        "b_background": "edithkey.jpg",
+        "b_map_label_class": "marker-label",
+        "b_map_label_offset": "50 57",
+        "coordinates": [
+            {
+                "lat": 53.64247265615571,
+                "lng": -1.7783843942426336
+            },
+            {
+                "lat": 53.64248259410885,
+                "lng": -1.7783123098753584
+            },
+            {
+                "lat": 53.64246212192283,
+                "lng": -1.7782761000536573
+            },
+            {
+                "lat": 53.64241629037358,
+                "lng": -1.7782858625027065
+            },
+            {
+                "lat": 53.64237324222485,
+                "lng": -1.7782707390361074
+            },
+            {
+                "lat": 53.642348100499824,
+                "lng": -1.7783084151147444
+            },
+            {
+                "lat": 53.642311329944256,
+                "lng": -1.77830673873411
+            },
+            {
+                "lat": 53.64231271998578,
+                "lng": -1.778255838160634
+            },
+            {
+                "lat": 53.64230317951238,
+                "lng": -1.7782548323322533
+            },
+            {
+                "lat": 53.64230437207167,
+                "lng": -1.7782149344731568
+            },
+            {
+                "lat": 53.64225825975449,
+                "lng": -1.7782109111596345
+            },
+            {
+                "lat": 53.6422574442506,
+                "lng": -1.7782542447797267
+            },
+            {
+                "lat": 53.642105943928065,
+                "lng": -1.7782448999042533
+            },
+            {
+                "lat": 53.642103757559035,
+                "lng": -1.7783163137192748
+            },
+            {
+                "lat": 53.64207696997263,
+                "lng": -1.7783157850920528
+            },
+            {
+                "lat": 53.64207776501644,
+                "lng": -1.7782544295608371
+            },
+            {
+                "lat": 53.64186382860508,
+                "lng": -1.7782401506433687
+            },
+            {
+                "lat": 53.64186164222353,
+                "lng": -1.7783528034219942
+            },
+            {
+                "lat": 53.64189880667074,
+                "lng": -1.7783566214976898
+            },
+            {
+                "lat": 53.641898087042314,
+                "lng": -1.7783928847549868
+            },
+            {
+                "lat": 53.64188297593293,
+                "lng": -1.7783919572682194
+            },
+            {
+                "lat": 53.64188210304021,
+                "lng": -1.7784430595391543
+            },
+            {
+                "lat": 53.64190774331355,
+                "lng": -1.7784444006436617
+            },
+            {
+                "lat": 53.64190881053279,
+                "lng": -1.7784208255920508
+            },
+            {
+                "lat": 53.64206907910618,
+                "lng": -1.7784307806501487
+            },
+            {
+                "lat": 53.64206828406222,
+                "lng": -1.7784837542781928
+            },
+            {
+                "lat": 53.642308593792194,
+                "lng": -1.7784987190799506
+            },
+            {
+                "lat": 53.64230998511121,
+                "lng": -1.778449098213175
+            },
+            {
+                "lat": 53.64234757112192,
+                "lng": -1.7784524749885144
+            },
+            {
+                "lat": 53.64236685080603,
+                "lng": -1.7784917022953572
+            },
+            {
+                "lat": 53.642412505536534,
+                "lng": -1.7784781067580413
+            },
+            {
+                "lat": 53.64245703573467,
+                "lng": -1.7784962527750103
+            },
+            {
+                "lat": 53.64247989303185,
+                "lng": -1.7784608794709844
+            }
+        ]
+    },
+    {
+        "id":7,
+        "b_id": "fsd",
+        "b_campus": "huddersfield",
+        "b_name": "Firth Street Depot (FD)",
+        "b_lat": "53.640475100000",
+        "b_lng": "-1.778465500000",
+        "b_description": null,
+        "b_departments": null,
+        "b_facilities": null,
+        "b_background": "firthstreetdepot.jpg",
+        "b_map_label_class": "marker-label",
+        "b_map_label_offset": "50 57",
+        "coordinates": [
+            {
+                "lat": 53.64048817919794,
+                "lng": -1.7785447973329438
+            },
+            {
+                "lat": 53.64036266978408,
+                "lng": -1.77834821741504
+            },
+            {
+                "lat": 53.640416138619116,
+                "lng": -1.7782483051292353
+            },
+            {
+                "lat": 53.64025651569299,
+                "lng": -1.7780075198330936
+            },
+            {
+                "lat": 53.640224315016916,
+                "lng": -1.7780661931552943
+            },
+            {
+                "lat": 53.64014770776093,
+                "lng": -1.7779529253362103
+            },
+            {
+                "lat": 53.64009688349455,
+                "lng": -1.7780471379278584
+            },
+            {
+                "lat": 53.64045205054308,
+                "lng": -1.7786015553584633
+            }
+        ]
+    },
+    {
+        "id":8,
+        "b_id": "hwb",
+        "b_campus": "huddersfield",
+        "b_name": "Harold Wilson Building (HW)",
+        "b_lat": "53.643558200000",
+        "b_lng": "-1.778513800000",
+        "b_description": "The Harold Wilson Building was completed in 1999 and features a large spiral staircase and atrium spanning all three floors. No.10 on the second floor is a popular caf\u00e9  and meeting area.",
+        "b_departments": "<li>Human and Health Sciences<\/li>",
+        "b_facilities": "<li>Skills Laboratories<\/li><li>Operating Department Practices<\/li><li>Nursing Skills Laboratory<\/li><li>Multi-sensory Room<\/li><li>Number 10 Coffee Bar<\/li><li>Occupational Therapy<\/li>",
+        "b_background": "haroldwilson.jpg",
+        "b_map_label_class": "marker-label",
+        "b_map_label_offset": "50 57",
+        "coordinates": [
+            {
+                "lat": 53.64360118824885,
+                "lng": -1.7788765285163466
+            },
+            {
+                "lat": 53.643604618895964,
+                "lng": -1.7788765812158314
+            },
+            {
+                "lat": 53.64360894359291,
+                "lng": -1.7786372142480045
+            },
+            {
+                "lat": 53.64360576353307,
+                "lng": -1.778630844001594
+            },
+            {
+                "lat": 53.64362772483191,
+                "lng": -1.7785959786055638
+            },
+            {
+                "lat": 53.643857760993235,
+                "lng": -1.7786062254330304
+            },
+            {
+                "lat": 53.64385915226111,
+                "lng": -1.7785552634617474
+            },
+            {
+                "lat": 53.64387863000673,
+                "lng": -1.7785371647893866
+            },
+            {
+                "lat": 53.643894331448166,
+                "lng": -1.7785086663186034
+            },
+            {
+                "lat": 53.643902522739836,
+                "lng": -1.7784689119995467
+            },
+            {
+                "lat": 53.64390550402496,
+                "lng": -1.7784447721184127
+            },
+            {
+                "lat": 53.64390556505792,
+                "lng": -1.7784052079687362
+            },
+            {
+                "lat": 53.64386183952191,
+                "lng": -1.7784025257597214
+            },
+            {
+                "lat": 53.64386183952191,
+                "lng": -1.7782808205256706
+            },
+            {
+                "lat": 53.64350746487567,
+                "lng": -1.7782676716824164
+            },
+            {
+                "lat": 53.643505874841956,
+                "lng": -1.7783860241551985
+            },
+            {
+                "lat": 53.64347824799674,
+                "lng": -1.7784275983949294
+            },
+            {
+                "lat": 53.643411629690284,
+                "lng": -1.778425455028545
+            },
+            {
+                "lat": 53.64340571580116,
+                "lng": -1.7788687126033098
+            },
+            {
+                "lat": 53.64348097355829,
+                "lng": -1.778875035480072
+            },
+            {
+                "lat": 53.64348057604962,
+                "lng": -1.7789444376383323
+            },
+            {
+                "lat": 53.64352527995231,
+                "lng": -1.7789444152747813
+            },
+            {
+                "lat": 53.64354595037632,
+                "lng": -1.7789289925729457
+            },
+            {
+                "lat": 53.64356230393597,
+                "lng": -1.7789108915711882
+            },
+            {
+                "lat": 53.64357144661674,
+                "lng": -1.7788941277648451
+            },
+            {
+                "lat": 53.64357442792527,
+                "lng": -1.7788763581301215
+            }
+        ]
+    },
+    {
+        "id":9,
+        "b_id": "ce",
+        "b_campus": "huddersfield",
+        "b_name": "Haslett Building & Lockside",
+        "b_lat": "53.641728000000",
+        "b_lng": "-1.777537500000",
+        "b_description": "The Haslett Building is an impressive 19th century textile mill refurbished for educational use in a series of award-winning developments. Lockside, opened in 2001, is a superbly renovated former textile mill building with 17 teaching rooms and four computer labs. There are specialist facilities for school teacher training subjects and computer labs are available outside timetabled hours.",
+        "b_departments": "<li>Computing and Engineering<\/li><li>Architecture<\/li><li>3D Design<\/li><li>Education and Professional Development<\/li>",
+        "b_facilities": "<li>Design studios<\/li><li>Computer-Aided Engineering equipment<\/li><li>Multimedia and Virtual Reality suites<\/li><li>Architecture studios<\/li><li>Resource centre for computing consumables<\/li><li>Popular caf\u00e9 with roof-top viewing area<\/li><li>Seventeen teaching rooms<\/li><li>Four computer labs<\/li><li>Specialist facilities for school teacher-training subjects<\/li>",
+        "b_background": "haslett.jpg",
+        "b_map_label_class": "marker-label",
+        "b_map_label_offset": "50 57",
+        "coordinates": [
+            {
+                "lat": 53.641494376703044,
+                "lng": -1.7781260674964794
+            },
+            {
+                "lat": 53.641872510050234,
+                "lng": -1.777522082574443
+            },
+            {
+                "lat": 53.64187628652643,
+                "lng": -1.777529793925361
+            },
+            {
+                "lat": 53.64219870861182,
+                "lng": -1.777038748439248
+            },
+            {
+                "lat": 53.6422177896037,
+                "lng": -1.7769726990422563
+            },
+            {
+                "lat": 53.642199702413684,
+                "lng": -1.776956605788167
+            },
+            {
+                "lat": 53.64223276128652,
+                "lng": -1.7768406628306521
+            },
+            {
+                "lat": 53.64222719600008,
+                "lng": -1.7768352984126223
+            },
+            {
+                "lat": 53.642263171588695,
+                "lng": -1.7767085640366687
+            },
+            {
+                "lat": 53.642237531531435,
+                "lng": -1.7766867710884227
+            },
+            {
+                "lat": 53.64221134606678,
+                "lng": -1.7766503422439017
+            },
+            {
+                "lat": 53.64172082841648,
+                "lng": -1.7772287436456757
+            },
+            {
+                "lat": 53.641710975768596,
+                "lng": -1.777236709768697
+            },
+            {
+                "lat": 53.64169805619268,
+                "lng": -1.777255820507928
+            },
+            {
+                "lat": 53.6416893106314,
+                "lng": -1.7772719137620174
+            },
+            {
+                "lat": 53.64167842293814,
+                "lng": -1.7772904661511824
+            },
+            {
+                "lat": 53.64167047242423,
+                "lng": -1.777310917994921
+            },
+            {
+                "lat": 53.64166550335226,
+                "lng": -1.7773293581818983
+            },
+            {
+                "lat": 53.64166259727746,
+                "lng": -1.777355924768349
+            },
+            {
+                "lat": 53.64166305303708,
+                "lng": -1.7773770795812105
+            },
+            {
+                "lat": 53.64166961221233,
+                "lng": -1.7774085955371355
+            },
+            {
+                "lat": 53.6416786982151,
+                "lng": -1.7774290749984423
+            },
+            {
+                "lat": 53.64165762935008,
+                "lng": -1.7774773547607103
+            },
+            {
+                "lat": 53.64164510728384,
+                "lng": -1.7774609262304941
+            },
+            {
+                "lat": 53.64160931133323,
+                "lng": -1.7775124873122183
+            },
+            {
+                "lat": 53.641632765378944,
+                "lng": -1.7775584201415984
+            },
+            {
+                "lat": 53.64139390791191,
+                "lng": -1.7779450210419112
+            }
+        ]
+    },
+    {
+        "id":10,
+        "b_id": "hq",
+        "b_campus": "huddersfield",
+        "b_name": "Heritage Quay, Schwann, Quayside, Student Central, Oastler",
+        "b_lat": "53.643673484253",
+        "b_lng": "-1.776823997498",
+        "b_description": "This is the main campus building, holding 4 different sections, Heritage Quay, Schwann, Quayside, Student Central, Oastler. The Library, cafeterias, study areas and lecture theatres can be found here.",
+        "b_departments": "<li>Business Mine<\/li>\r\n<li>Computing and Library Services<\/li>\r\n<li>External Relations Group<\/li>\r\n<li>Financial Services<\/li>\r\n<li>Human Resources Group<\/li>\r\n<li>Planning and Information Services<\/li>\r\n<li>Registry<\/li>\r\n<li>Student Admissions and Records<\/li>",
+        "b_facilities": "<li>Computer rooms located on most floors, consisting of both Mac and PC<\/li><li><strong>Catering<\/strong><\/li>\r\n<li>Campus Kitchen<\/li>\r\n<li>The Deli<\/li>\r\n<li><\/li>\r\n<li><strong>Library<\/strong><\/li>\r\n<li>Computer rooms with Macs and PCs located on most library floors (PCs available 24 hours a day)<\/li>\r\n<li><\/li>\r\n<li><strong>Students\u2019 Union<\/strong><\/li>\r\n<li>Students\u2019 Union Shop<\/li>\r\n<li>Students\u2019 Union support and advisory services<\/li>\r\n<li><\/li>\r\n<li><strong>Sports<\/strong><\/li>\r\n<li>An eight court sports hall with seating for 850 spectators<\/li>\r\n<li>A two-storey fitness suite with over 80 stations from the new Technogym Artis range<\/li>\r\n<li>Two spacious fitness studios<\/li>\r\n<li>Two glass backed squash courts<\/li>\r\n<li>Changing rooms<\/li>\r\n<li>Treatment areas for physiotherapy and beauty therapy<\/li>",
+        "b_background": "studentcentral.jpg",
+        "b_map_label_class": "marker-label",
+        "b_map_label_offset": "50 57",
+        "coordinates": [
+            {
+                "lat": 53.643442028658264,
+                "lng": -1.7772042090103524
+            },
+            {
+                "lat": 53.64346886050965,
+                "lng": -1.777205214838733
+            },
+            {
+                "lat": 53.643472040579795,
+                "lng": -1.777169005017032
+            },
+            {
+                "lat": 53.64361918308245,
+                "lng": -1.7771656437068817
+            },
+            {
+                "lat": 53.64361938183616,
+                "lng": -1.7771837486177322
+            },
+            {
+                "lat": 53.643757290007954,
+                "lng": -1.7771887338773973
+            },
+            {
+                "lat": 53.64375967504428,
+                "lng": -1.7772567949311502
+            },
+            {
+                "lat": 53.64388662407279,
+                "lng": -1.7772626121203805
+            },
+            {
+                "lat": 53.64389775420701,
+                "lng": -1.7771610234539414
+            },
+            {
+                "lat": 53.64400106023657,
+                "lng": -1.7770183404761886
+            },
+            {
+                "lat": 53.644059389844365,
+                "lng": -1.77706645050421
+            },
+            {
+                "lat": 53.64431468381992,
+                "lng": -1.7772304005260686
+            },
+            {
+                "lat": 53.644323230086485,
+                "lng": -1.7772448173995237
+            },
+            {
+                "lat": 53.644328198845315,
+                "lng": -1.777292426609538
+            },
+            {
+                "lat": 53.644389495925445,
+                "lng": -1.7773815261877335
+            },
+            {
+                "lat": 53.64441681065059,
+                "lng": -1.7774043974824516
+            },
+            {
+                "lat": 53.64443912620604,
+                "lng": -1.7774017044635038
+            },
+            {
+                "lat": 53.644467746170264,
+                "lng": -1.7773782351346235
+            },
+            {
+                "lat": 53.64447748490366,
+                "lng": -1.7773634829850415
+            },
+            {
+                "lat": 53.64448841613233,
+                "lng": -1.777321238193057
+            },
+            {
+                "lat": 53.64448922100807,
+                "lng": -1.7772961007529475
+            },
+            {
+                "lat": 53.64448067477513,
+                "lng": -1.7772458093339183
+            },
+            {
+                "lat": 53.64454572832025,
+                "lng": -1.7771811737832466
+            },
+            {
+                "lat": 53.6446248393564,
+                "lng": -1.7773797693406257
+            },
+            {
+                "lat": 53.6445531230059,
+                "lng": -1.7775088306974673
+            },
+            {
+                "lat": 53.644648945535195,
+                "lng": -1.777687753793007
+            },
+            {
+                "lat": 53.644669557371834,
+                "lng": -1.777666954435131
+            },
+            {
+                "lat": 53.644700402954015,
+                "lng": -1.7777182711370587
+            },
+            {
+                "lat": 53.64497557808637,
+                "lng": -1.7772912637964922
+            },
+            {
+                "lat": 53.64494556723478,
+                "lng": -1.7772302435414034
+            },
+            {
+                "lat": 53.64499766919231,
+                "lng": -1.77714660713858
+            },
+            {
+                "lat": 53.645031853694555,
+                "lng": -1.7770530650991856
+            },
+            {
+                "lat": 53.64505769079995,
+                "lng": -1.776955164470142
+            },
+            {
+                "lat": 53.64506723065028,
+                "lng": -1.7768881092447697
+            },
+            {
+                "lat": 53.64506643566281,
+                "lng": -1.776839158930248
+            },
+            {
+                "lat": 53.645059877015846,
+                "lng": -1.7767898733395993
+            },
+            {
+                "lat": 53.64503417491181,
+                "lng": -1.7767182085693811
+            },
+            {
+                "lat": 53.64501012651616,
+                "lng": -1.7766850162328218
+            },
+            {
+                "lat": 53.6449693539293,
+                "lng": -1.7766631736782967
+            },
+            {
+                "lat": 53.64491393650126,
+                "lng": -1.7766551446825884
+            },
+            {
+                "lat": 53.64486555494055,
+                "lng": -1.7766571563393496
+            },
+            {
+                "lat": 53.644700555193864,
+                "lng": -1.7767501916568995
+            },
+            {
+                "lat": 53.6447444786087,
+                "lng": -1.7769293553071352
+            },
+            {
+                "lat": 53.644691611506516,
+                "lng": -1.7769702589946124
+            },
+            {
+                "lat": 53.64461662660864,
+                "lng": -1.7767069007775582
+            },
+            {
+                "lat": 53.64477998189948,
+                "lng": -1.7765601235429718
+            },
+            {
+                "lat": 53.644612436195665,
+                "lng": -1.7760012252227475
+            },
+            {
+                "lat": 53.64429446592643,
+                "lng": -1.7762717964491515
+            },
+            {
+                "lat": 53.644274988372864,
+                "lng": -1.7762188228211073
+            },
+            {
+                "lat": 53.64421536315298,
+                "lng": -1.7762805136284499
+            },
+            {
+                "lat": 53.64426664084716,
+                "lng": -1.7764743032297758
+            },
+            {
+                "lat": 53.6441986680763,
+                "lng": -1.7766278596958784
+            },
+            {
+                "lat": 53.64394293557872,
+                "lng": -1.7761874386215282
+            },
+            {
+                "lat": 53.64378286075734,
+                "lng": -1.776443924346327
+            },
+            {
+                "lat": 53.64378206574569,
+                "lng": -1.7765411544231169
+            },
+            {
+                "lat": 53.643852821724224,
+                "lng": -1.7766665476945631
+            },
+            {
+                "lat": 53.64379717096456,
+                "lng": -1.7767530489352934
+            },
+            {
+                "lat": 53.64365404281949,
+                "lng": -1.7765147637131595
+            },
+            {
+                "lat": 53.643490181708145,
+                "lng": -1.7767776678323743
+            },
+            {
+                "lat": 53.64348938669097,
+                "lng": -1.7769540230751035
+            },
+            {
+                "lat": 53.6434389030699,
+                "lng": -1.7769546936273573
+            }
+        ]
+    },
+    {
+        "id":11,
+        "b_id": "qsb",
+        "b_campus": "huddersfield",
+        "b_name": "Queen St. Building (QSB)",
+        "b_lat": "53.642294100000",
+        "b_lng": "-1.780552300000",
+        "b_description": null,
+        "b_departments": null,
+        "b_facilities": null,
+        "b_background": "queenstreetbuilding.jpg",
+        "b_map_label_class": "marker-label",
+        "b_map_label_offset": "50 57",
+        "coordinates": [
+            {
+                "lat": 53.64243140321855,
+                "lng": -1.780625298691596
+            },
+            {
+                "lat": 53.64240437194774,
+                "lng": -1.7804643661507025
+            },
+            {
+                "lat": 53.64239721660846,
+                "lng": -1.7804683894642248
+            },
+            {
+                "lat": 53.642332818500215,
+                "lng": -1.7800821513660803
+            },
+            {
+                "lat": 53.64227716573485,
+                "lng": -1.7801062912472143
+            },
+            {
+                "lat": 53.64227160045427,
+                "lng": -1.7800861746796026
+            },
+            {
+                "lat": 53.64224884398408,
+                "lng": -1.780093833433134
+            },
+            {
+                "lat": 53.64225281918671,
+                "lng": -1.7801162969336337
+            },
+            {
+                "lat": 53.642239899776804,
+                "lng": -1.7801219966277904
+            },
+            {
+                "lat": 53.642190414572845,
+                "lng": -1.7798389415375238
+            },
+            {
+                "lat": 53.64209310762287,
+                "lng": -1.7798842502777235
+            },
+            {
+                "lat": 53.642202808560306,
+                "lng": -1.7805669386239975
+            },
+            {
+                "lat": 53.64219287054124,
+                "lng": -1.7805719677659004
+            },
+            {
+                "lat": 53.6421992308737,
+                "lng": -1.7806152183862656
+            },
+            {
+                "lat": 53.6421945105613,
+                "lng": -1.7806183587980962
+            },
+            {
+                "lat": 53.64221299527418,
+                "lng": -1.7807296704722142
+            }
+        ]
+    },
+    {
+        "id":12,
+        "b_id": "qsa",
+        "b_campus": "huddersfield",
+        "b_name": "Queen St. South Annexe (QSA)",
+        "b_lat": "53.642020600000",
+        "b_lng": "-1.780187400000",
+        "b_description": null,
+        "b_departments": null,
+        "b_facilities": "<li>Faith Centre<\/li><li>Islamic Prayer Rooms<\/li>",
+        "b_background": null,
+        "b_map_label_class": "marker-label",
+        "b_map_label_offset": "50 57",
+        "coordinates": [
+            {
+                "lat": 53.64212717778508,
+                "lng": -1.7805185512494903
+            },
+            {
+                "lat": 53.64201384225553,
+                "lng": -1.7798407770466484
+            },
+            {
+                "lat": 53.64187510028691,
+                "lng": -1.7799074459599784
+            },
+            {
+                "lat": 53.64198792786286,
+                "lng": -1.7805850223532715
+            }
+        ]
+    },
+    {
+        "id":13,
+        "b_id": "qss",
+        "b_campus": "huddersfield",
+        "b_name": "Queen Street Studios (QS)",
+        "b_lat": "53.640955200000",
+        "b_lng": "-1.780772200000",
+        "b_description": "Queen Street Studios is home to the department of Architecture and 3D Design. It boasts shared work spaces and dedicated teaching rooms with computer access.",
+        "b_departments": "<li>Architecture and 3D Design<\/li>",
+        "b_facilities": "<li>Cafe area<\/li><li>Access to a Design Centre with containing key industry and technical resources such as rapid prototyping machines and digital measurment systems<\/li><li>Full workshop<\/li>",
+        "b_background": null,
+        "b_map_label_class": "marker-label",
+        "b_map_label_offset": "50 57",
+        "coordinates": [
+            {
+                "lat": 53.64107873303547,
+                "lng": -1.7808110920307096
+            },
+            {
+                "lat": 53.64097119351874,
+                "lng": -1.7800601811082672
+            },
+            {
+                "lat": 53.640771053801416,
+                "lng": -1.780128359189228
+            },
+            {
+                "lat": 53.64080292254832,
+                "lng": -1.7803952064079698
+            },
+            {
+                "lat": 53.64084955957096,
+                "lng": -1.7803818186205111
+            },
+            {
+                "lat": 53.64087718813808,
+                "lng": -1.7806071241777621
+            },
+            {
+                "lat": 53.64085355774936,
+                "lng": -1.7806147974169662
+            },
+            {
+                "lat": 53.64088396904598,
+                "lng": -1.780878995004933
+            }
+        ]
+    },
+    {
+        "id":14,
+        "b_id": "rb",
+        "b_campus": "huddersfield",
+        "b_name": "Ramsden Building (R)",
+        "b_lat": "53.642911100000",
+        "b_lng": "-1.780418200000",
+        "b_description": "This historic building is the oldest on campus and retains many of its Victorian Gothic features. It accommodates about half of the staff from the School of Human and Health Sciences. The Podiatry Clinic is on the ground floor and open to the public.",
+        "b_departments": "<li>Art and Design<\/li><li>Human and Health Sciences<\/li>",
+        "b_facilities": "<li>Fine Art studios<\/li><li>Two computer labs for Human and Health Sciences<\/li><li>Facilities for physiotherapy, sport and occupational therapy<\/li><li>Resource Centre with copying, binding and scanning facilities together with lab consumables and a small loan collection of books and CDs.<\/li>",
+        "b_background": "ramsden.jpg",
+        "b_map_label_class": "marker-label",
+        "b_map_label_offset": "50 57",
+        "coordinates": [
+            {
+                "lat": 53.64308278722598,
+                "lng": -1.7804986245563947
+            },
+            {
+                "lat": 53.642927361131775,
+                "lng": -1.7795179339051281
+            },
+            {
+                "lat": 53.64263785448697,
+                "lng": -1.77963163209637
+            },
+            {
+                "lat": 53.64278464422134,
+                "lng": -1.780619939079482
+            },
+            {
+                "lat": 53.642851053771246,
+                "lng": -1.7805948037266428
+            },
+            {
+                "lat": 53.642862581693244,
+                "lng": -1.7806095558762247
+            },
+            {
+                "lat": 53.64286317796498,
+                "lng": -1.7806098911523516
+            },
+            {
+                "lat": 53.642873115826085,
+                "lng": -1.7806095558762247
+            },
+            {
+                "lat": 53.64288563752779,
+                "lng": -1.7806035209059412
+            },
+            {
+                "lat": 53.642896370411954,
+                "lng": -1.7805850807189638
+            },
+            {
+                "lat": 53.64289557538361,
+                "lng": -1.7805780399202997
+            },
+            {
+                "lat": 53.642977592444225,
+                "lng": -1.7805432516513942
+            },
+            {
+                "lat": 53.642988126548374,
+                "lng": -1.7805549863158343
+            },
+            {
+                "lat": 53.642998064380045,
+                "lng": -1.7805539804874537
+            },
+            {
+                "lat": 53.64301396490584,
+                "lng": -1.7805478960663068
+            },
+            {
+                "lat": 53.64301972884497,
+                "lng": -1.7805314675360906
+            },
+            {
+                "lat": 53.64301913257544,
+                "lng": -1.780525767841934
+            }
+        ]
+    },
+    {
+        "id":15,
+        "b_id": "cab",
+        "b_campus": "huddersfield",
+        "b_name": "Richard Steinitz (RS)",
+        "b_lat": "53.644103584477",
+        "b_lng": "-1.777845919132",
+        "b_description": "The \u00a315m Creative Arts Building is one of the most exciting and inspirational teaching and research facilities for music and creative arts courses in the University sector. It is home to students studying music and music technology, fashion, creative imaging, multimedia, and business design awareness.",
+        "b_departments": "<li>Art and Design<\/li><li>Music<\/li>",
+        "b_facilities": "<li>Rehearsal space<\/li>\r\n<li>Phipps Concert Hall<\/li>\r\n<li>Work space and exhibition areas for art and design students<\/li>\r\n<li>Distinctive cube shaped electro acoustic research studio, comprising cutting edge technology to create a world class research facility.<\/li>",
+        "b_background": "richardsteinitz.jpg",
+        "b_map_label_class": "marker-label",
+        "b_map_label_offset": "50 57",
+        "coordinates": [
+            {
+                "lat": 53.64454631909124,
+                "lng": -1.7778094386554533
+            },
+            {
+                "lat": 53.64448086765537,
+                "lng": -1.7776721790814465
+            },
+            {
+                "lat": 53.64446655768016,
+                "lng": -1.7776862606787747
+            },
+            {
+                "lat": 53.64441687450077,
+                "lng": -1.7776001019212262
+            },
+            {
+                "lat": 53.64439799325377,
+                "lng": -1.7776188773843304
+            },
+            {
+                "lat": 53.644363361265086,
+                "lng": -1.7775559770324834
+            },
+            {
+                "lat": 53.64432043120523,
+                "lng": -1.7776019098618634
+            },
+            {
+                "lat": 53.64429750631529,
+                "lng": -1.7775650294879086
+            },
+            {
+                "lat": 53.644244984261434,
+                "lng": -1.77760947143629
+            },
+            {
+                "lat": 53.64409551986131,
+                "lng": -1.777773802543272
+            },
+            {
+                "lat": 53.6440510349298,
+                "lng": -1.7778461823596725
+            },
+            {
+                "lat": 53.644108076614174,
+                "lng": -1.7779246369733581
+            },
+            {
+                "lat": 53.644065742549174,
+                "lng": -1.7780214487082269
+            },
+            {
+                "lat": 53.644018630962904,
+                "lng": -1.778147682449247
+            },
+            {
+                "lat": 53.643957614115976,
+                "lng": -1.7783629297226922
+            },
+            {
+                "lat": 53.64405074134736,
+                "lng": -1.7784242003132134
+            },
+            {
+                "lat": 53.64410738987834,
+                "lng": -1.7782538292767947
+            },
+            {
+                "lat": 53.644151711413286,
+                "lng": -1.778294397688145
+            },
+            {
+                "lat": 53.6441209205182,
+                "lng": -1.7784170475513905
+            },
+            {
+                "lat": 53.644089716549665,
+                "lng": -1.7785638984949559
+            },
+            {
+                "lat": 53.64418596555943,
+                "lng": -1.778615359772615
+            },
+            {
+                "lat": 53.64421435233844,
+                "lng": -1.7785160188484084
+            },
+            {
+                "lat": 53.64426702128827,
+                "lng": -1.7783215586948287
+            },
+            {
+                "lat": 53.64433598770048,
+                "lng": -1.7781411801385771
+            },
+            {
+                "lat": 53.64441449399787,
+                "lng": -1.7779933233666312
+            },
+            {
+                "lat": 53.644491877866166,
+                "lng": -1.7778758582755372
+            }
+        ]
+    },
+    {
+        "id":16,
+        "b_id": "sjrc",
+        "b_campus": "huddersfield",
+        "b_name": "Sir John Ramsden Court (JR)",
+        "b_lat": "53.644415300000",
+        "b_lng": "-1.775563400000",
+        "b_description": null,
+        "b_departments": null,
+        "b_facilities": null,
+        "b_background": "ramsdencourt.jpg",
+        "b_icon_base": "jr",
+        "b_zoom_level": "15",
+        "b_map_label_class": "marker-label",
+        "b_map_label_offset": "50 57",
+        "coordinates": [
+            {
+                "lat": 53.644519849935456,
+                "lng": -1.7756261724216316
+            },
+            {
+                "lat": 53.64448208752524,
+                "lng": -1.775537994800267
+            },
+            {
+                "lat": 53.64449009032794,
+                "lng": -1.7755276168349798
+            },
+            {
+                "lat": 53.644482248047936,
+                "lng": -1.7755091766480025
+            },
+            {
+                "lat": 53.64450490549804,
+                "lng": -1.7754796723488386
+            },
+            {
+                "lat": 53.644487813036825,
+                "lng": -1.7754478211167868
+            },
+            {
+                "lat": 53.64446932932095,
+                "lng": -1.775469278788906
+            },
+            {
+                "lat": 53.64445740433866,
+                "lng": -1.7754421214226301
+            },
+            {
+                "lat": 53.644491788028425,
+                "lng": -1.7753985355261381
+            },
+            {
+                "lat": 53.64445800058786,
+                "lng": -1.7753257806066092
+            },
+            {
+                "lat": 53.6443845760583,
+                "lng": -1.7754160486731907
+            },
+            {
+                "lat": 53.644378613555624,
+                "lng": -1.7754083373222729
+            },
+            {
+                "lat": 53.64435879459747,
+                "lng": -1.775432962447392
+            },
+            {
+                "lat": 53.64436257085106,
+                "lng": -1.7754443618357052
+            },
+            {
+                "lat": 53.644333752065165,
+                "lng": -1.7754849302470554
+            },
+            {
+                "lat": 53.6444391476391,
+                "lng": -1.775724964818295
+            }
+        ]
+    },
+    {
+        "id":17,
+        "b_id": "mb",
+        "b_campus": "huddersfield",
+        "b_name": "Sir Patrick Stewart Building (PS)",
+        "b_lat": "53.642504000000",
+        "b_lng": "-1.780166000000",
+        "b_description": "The Sir Patrick Stewart Building houses state of the art performance facilities.",
+        "b_departments": "<li>Drama<\/li>",
+        "b_facilities": "<li>State of the art performance facilities<\/li>",
+        "b_background": "patrickstewart.jpg",
+        "b_map_label_class": "marker-label",
+        "b_map_label_offset": "50 57",
+        "coordinates": [
+            {
+                "lat": 53.642711711563955,
+                "lng": -1.7806825132116577
+            },
+            {
+                "lat": 53.64268786060208,
+                "lng": -1.7805651665672562
+            },
+            {
+                "lat": 53.64267593511607,
+                "lng": -1.7805715368136665
+            },
+            {
+                "lat": 53.64265148785922,
+                "lng": -1.780412951205661
+            },
+            {
+                "lat": 53.64267116492074,
+                "lng": -1.7804049045786163
+            },
+            {
+                "lat": 53.64255822757562,
+                "lng": -1.7796511428278206
+            },
+            {
+                "lat": 53.642342512400354,
+                "lng": -1.779729051626353
+            },
+            {
+                "lat": 53.64239249313143,
+                "lng": -1.780121290745278
+            },
+            {
+                "lat": 53.6424191268912,
+                "lng": -1.7801142499466138
+            },
+            {
+                "lat": 53.64244118917197,
+                "lng": -1.780273506106873
+            },
+            {
+                "lat": 53.64240779760739,
+                "lng": -1.7802869171519475
+            },
+            {
+                "lat": 53.64243548042635,
+                "lng": -1.780485010225732
+            },
+            {
+                "lat": 53.642461517881536,
+                "lng": -1.7804783047031947
+            },
+            {
+                "lat": 53.64248911560964,
+                "lng": -1.7806777865664425
+            },
+            {
+                "lat": 53.6425175381383,
+                "lng": -1.7806700752155247
+            },
+            {
+                "lat": 53.642523898421814,
+                "lng": -1.780710643626875
+            },
+            {
+                "lat": 53.64254997990047,
+                "lng": -1.7807044538355354
+            },
+            {
+                "lat": 53.642550377417926,
+                "lng": -1.7807108240819458
+            },
+            {
+                "lat": 53.64261239137409,
+                "lng": -1.7807047883912785
+            },
+            {
+                "lat": 53.64265114924969,
+                "lng": -1.780677295748876
+            },
+            {
+                "lat": 53.642654528139694,
+                "lng": -1.7807017709061368
+            }
+        ]
+    },
+    {
+        "id":18,
+        "b_id": "cw",
+        "b_campus": "huddersfield",
+        "b_name": "Sp\u00e4rck Jones Building (SJ)",
+        "b_lat": "53.641231900000",
+        "b_lng": "-1.778352900000",
+        "b_description": "Sp\u00e4rck Jones Building is an impressive 19th century textile mills refurbished for educational use in a series of award-winning developments. ",
+        "b_departments": "<li>Computing and Engineering<\/li><li>Architecture<\/li><li>3D Design<\/li>",
+        "b_facilities": "<li>Design studios<\/li><li>Computer-Aided Engineering equipment<\/li><li>Multimedia and Virtual Reality suites<\/li><li>Architecture studios<\/li><li>Resource centre for computing consumables<\/li><li>Popular caf\u00e9 with roof-top viewing area<\/li>",
+        "b_background": "sparkjones.jpg",
+        "b_map_label_class": "marker-label",
+        "b_map_label_offset": "50 57",
+        "coordinates": [
+            {
+                "lat": 53.641479162235605,
+                "lng": -1.778167573771836
+            },
+            {
+                "lat": 53.64137243190279,
+                "lng": -1.778008943207352
+            },
+            {
+                "lat": 53.64134281601602,
+                "lng": -1.7780676165295528
+            },
+            {
+                "lat": 53.641346990068406,
+                "lng": -1.7780759984327243
+            },
+            {
+                "lat": 53.64123918945584,
+                "lng": -1.7782870345751056
+            },
+            {
+                "lat": 53.64120738706006,
+                "lng": -1.778240095917345
+            },
+            {
+                "lat": 53.641193473504345,
+                "lng": -1.7782672532836208
+            },
+            {
+                "lat": 53.64103542873815,
+                "lng": -1.7780280199259368
+            },
+            {
+                "lat": 53.64072339380326,
+                "lng": -1.7784677113920333
+            },
+            {
+                "lat": 53.64106242632953,
+                "lng": -1.7789928085463314
+            },
+            {
+                "lat": 53.64145634940805,
+                "lng": -1.778238495912956
+            },
+            {
+                "lat": 53.6414485976162,
+                "lng": -1.7782267612485159
+            }
+        ]
+    },
+    {
+        "id":19,
+        "b_id": "sph",
+        "b_campus": "huddersfield",
+        "b_name": "St. Pauls Hall (PLG)",
+        "b_lat": "53.643744300000",
+        "b_lng": "-1.779634900000",
+        "b_description": "The campus concert hall, St. Paul's is a beautifully converted Georgian church. Holding over 70 performances a year, this is an excellent performance space. St Paul's is the venue for a range of concerts, including the world renowned Huddersfield Contemporary Music Festival.  ",
+        "b_departments": null,
+        "b_facilities": null,
+        "b_background": "stpaulshall.jpg",
+        "b_map_label_class": "marker-label",
+        "b_map_label_offset": "50 57",
+        "coordinates": [
+            {
+                "lat": 53.64380859657671,
+                "lng": -1.780063047614
+            },
+            {
+                "lat": 53.64382134752618,
+                "lng": -1.7796310566273377
+            },
+            {
+                "lat": 53.64384340907345,
+                "lng": -1.7796337388363526
+            },
+            {
+                "lat": 53.64384619161014,
+                "lng": -1.7795727185812638
+            },
+            {
+                "lat": 53.64378398199633,
+                "lng": -1.7795666836109802
+            },
+            {
+                "lat": 53.643785373266645,
+                "lng": -1.7795499198046372
+            },
+            {
+                "lat": 53.64376383167692,
+                "lng": -1.7794947736928801
+            },
+            {
+                "lat": 53.643724940729946,
+                "lng": -1.779490861466777
+            },
+            {
+                "lat": 53.64370228286083,
+                "lng": -1.7795384706767914
+            },
+            {
+                "lat": 53.64370128909436,
+                "lng": -1.7795626105579254
+            },
+            {
+                "lat": 53.64366690476009,
+                "lng": -1.7795595930727837
+            },
+            {
+                "lat": 53.6436531309164,
+                "lng": -1.7800497244996283
+            },
+            {
+                "lat": 53.643689900302135,
+                "lng": -1.7800524067086432
+            },
+            {
+                "lat": 53.64369009905548,
+                "lng": -1.7800597827834341
+            },
+            {
+                "lat": 53.643702421761304,
+                "lng": -1.780060118059561
+            },
+            {
+                "lat": 53.64369981037932,
+                "lng": -1.7801639605789643
+            },
+            {
+                "lat": 53.6437023941722,
+                "lng": -1.7801726777582627
+            },
+            {
+                "lat": 53.64370577297798,
+                "lng": -1.7801787127285462
+            },
+            {
+                "lat": 53.643711338069345,
+                "lng": -1.7801830713181954
+            },
+            {
+                "lat": 53.6437214744838,
+                "lng": -1.7801854182510835
+            },
+            {
+                "lat": 53.64374254231782,
+                "lng": -1.7801834065943223
+            },
+            {
+                "lat": 53.64374899281094,
+                "lng": -1.7801753870115444
+            },
+            {
+                "lat": 53.64375336537828,
+                "lng": -1.780166669832246
+            },
+            {
+                "lat": 53.643757141686066,
+                "lng": -1.780152252958791
+            },
+            {
+                "lat": 53.64375894149117,
+                "lng": -1.7801302771338512
+            },
+            {
+                "lat": 53.643760332762334,
+                "lng": -1.7800709332593967
+            },
+            {
+                "lat": 53.643772854200606,
+                "lng": -1.7800712685355236
+            },
+            {
+                "lat": 53.643773649212434,
+                "lng": -1.7800602044233371
+            }
+        ]
+    },
+    {
+        "id":20,
+        "b_id": "tb",
+        "b_campus": "huddersfield",
+        "b_name": "Technology Building (T)",
+        "b_lat": "53.643731500000",
+        "b_lng": "-1.777741300000",
+        "b_description": "An extensive workshop and teaching block with looms and studio spaces for Fashion and Textile courses, classrooms, lecture theatres, Engineering workshops and the state of the art recording and mixing facilities of the Blue Room Studios.",
+        "b_departments": "<li>Art and Design<\/li><li>Computing and Engineering<\/li>",
+        "b_facilities": "<li>Textile exhibition Studios<\/li><li>Automotive Lab<\/li><li>Electrical Workshop<\/li><li>Music Recording Technology<\/li>",
+        "b_background": "technology.jpg",
+        "b_map_label_class": "marker-label",
+        "b_map_label_offset": "50 57",
+        "coordinates": [
+            {
+                "lat": 53.64387776530541,
+                "lng": -1.778113587823884
+            },
+            {
+                "lat": 53.64388777415001,
+                "lng": -1.7773484292603947
+            },
+            {
+                "lat": 53.642492518941516,
+                "lng": -1.7772976225444204
+            },
+            {
+                "lat": 53.64248311641056,
+                "lng": -1.7780580008925062
+            },
+            {
+                "lat": 53.64267236980327,
+                "lng": -1.778064565585895
+            },
+            {
+                "lat": 53.64267157477069,
+                "lng": -1.7781530784833866
+            },
+            {
+                "lat": 53.64273945456007,
+                "lng": -1.7781549013505238
+            },
+            {
+                "lat": 53.64274024959138,
+                "lng": -1.778110644901778
+            },
+            {
+                "lat": 53.64280439752685,
+                "lng": -1.7781128886220676
+            },
+            {
+                "lat": 53.642803602496784,
+                "lng": -1.7781591567275745
+            },
+            {
+                "lat": 53.64287053767587,
+                "lng": -1.7781617977570696
+            },
+            {
+                "lat": 53.64287113394751,
+                "lng": -1.778114859099309
+            },
+            {
+                "lat": 53.64292308990284,
+                "lng": -1.7781168537205772
+            },
+            {
+                "lat": 53.64292249363196,
+                "lng": -1.7781647982067184
+            },
+            {
+                "lat": 53.6430866557697,
+                "lng": -1.7781706700833233
+            },
+            {
+                "lat": 53.643087053282066,
+                "lng": -1.7781244019778164
+            },
+            {
+                "lat": 53.64324496074819,
+                "lng": -1.7781300159291602
+            },
+            {
+                "lat": 53.643244364481845,
+                "lng": -1.778178966243682
+            },
+            {
+                "lat": 53.64344380245901,
+                "lng": -1.7781869484439627
+            },
+            {
+                "lat": 53.643444001213524,
+                "lng": -1.7781386686816947
+            },
+            {
+                "lat": 53.64350725553927,
+                "lng": -1.7781417497147234
+            },
+            {
+                "lat": 53.64350685803085,
+                "lng": -1.7781870119918497
+            },
+            {
+                "lat": 53.643574733433624,
+                "lng": -1.7781894212804983
+            },
+            {
+                "lat": 53.64357532969532,
+                "lng": -1.7781428178988645
+            },
+            {
+                "lat": 53.643654551915596,
+                "lng": -1.778146060316279
+            },
+            {
+                "lat": 53.64365409417904,
+                "lng": -1.778195887283811
+            },
+            {
+                "lat": 53.64377414927833,
+                "lng": -1.7781994780783128
+            },
+            {
+                "lat": 53.64377494429011,
+                "lng": -1.778109288800187
+            }
+        ]
+    },
+    {
+        "id":21,
+        "b_id": "uhc",
+        "b_campus": "huddersfield",
+        "b_name": "University Health Centre",
+        "b_lat": "53.643890500000",
+        "b_lng": "-1.775611700000",
+        "b_description": null,
+        "b_departments": null,
+        "b_facilities": null,
+        "b_background": "healthcentre.jpg",
+        "b_icon_base": "uhc",
+        "b_zoom_level": "15",
+        "b_map_label_class": "marker-label",
+        "b_map_label_offset": "50 57",
+        "coordinates": [
+            [
+                {
+                    "lat": 53.64401558618144,
+                    "lng": -1.7755509827138916
+                },
+                {
+                    "lat": 53.64389213324915,
+                    "lng": -1.775314128205625
+                },
+                {
+                    "lat": 53.64372633574637,
+                    "lng": -1.7755505993257503
+                },
+                {
+                    "lat": 53.64383990270242,
+                    "lng": -1.7757967086339232
+                },
+                {
+                    "lat": 53.64389481215372,
+                    "lng": -1.7757275881267254
+                },
+                {
+                    "lat": 53.64389202962024,
+                    "lng": -1.7757218884325687
+                }
+            ]
+        ]
+    },
+    {
+        "id":22,
+        "b_id": "ur",
+        "b_campus": "huddersfield",
+        "b_name": "University Reception",
+        "b_lat": "53.643699719698",
+        "b_lng": "-1.778744459152",
+        "b_description": null,
+        "b_departments": null,
+        "b_facilities": null,
+        "b_background": "reception.jpg",
+        "b_map_label_class": "marker-label",
+        "b_map_label_offset": "50 57",
+        "coordinates": [
+            {
+                "lat": 53.64374155264464,
+                "lng": -1.7788191808242115
+            },
+            {
+                "lat": 53.64374433518804,
+                "lng": -1.7787836415547642
+            },
+            {
+                "lat": 53.643742546410145,
+                "lng": -1.7787397203821453
+            },
+            {
+                "lat": 53.64373618631041,
+                "lng": -1.7787045163888249
+            },
+            {
+                "lat": 53.643724603327904,
+                "lng": -1.7786695216011772
+            },
+            {
+                "lat": 53.64370452925131,
+                "lng": -1.7786447111677894
+            },
+            {
+                "lat": 53.643680283813076,
+                "lng": -1.7786269415330658
+            },
+            {
+                "lat": 53.643656454031834,
+                "lng": -1.7786241230005784
+            },
+            {
+                "lat": 53.64363677743,
+                "lng": -1.7786268052095933
+            },
+            {
+                "lat": 53.64362266592204,
+                "lng": -1.778646921777205
+            },
+            {
+                "lat": 53.64361928710959,
+                "lng": -1.77867843773313
+            },
+            {
+                "lat": 53.6436200821243,
+                "lng": -1.7787139770025773
+            },
+            {
+                "lat": 53.64362882728526,
+                "lng": -1.7787642684216065
+            },
+            {
+                "lat": 53.64364413131259,
+                "lng": -1.7788038310045762
+            },
+            {
+                "lat": 53.64366659045951,
+                "lng": -1.7788269650573296
+            },
+            {
+                "lat": 53.643698192247726,
+                "lng": -1.7788393702740235
+            },
+            {
+                "lat": 53.64371906134017,
+                "lng": -1.778840376102404
+            },
+            {
+                "lat": 53.643731781543856,
+                "lng": -1.7788376938933892
+            }
+        ]
+    }
+]

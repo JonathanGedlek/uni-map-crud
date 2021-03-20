@@ -1,0 +1,60 @@
+[
+    {
+        "building_name":"Charles Sikes",
+        "lat":53.64333654840196,
+        "lng":-1.7761161763077582,
+        "room_code":
+        [
+            "CS1/30"
+        ]
+    },
+    {
+        "building_name":"Joseph Priestley",
+        "lat":53.64342412926947,
+        "lng":-1.7794209456278587,
+        "room_code":
+        [
+            "JPSG/09",
+            "JPSG/10",
+            "JPSG/11",
+            "JPSG/12",
+            "JPS1/13",
+            "JPS1/14",
+            "JPS1/15",
+            "JPS1/16",
+            "JPS1/17",
+            "JPS2/13",
+            "JPS2/14",
+            "JPS2/15",
+            "JPS2/16",
+            "JPS2/17"
+        ]
+    },
+    {
+        "building_name":"Schwann",
+        "lat":53.64401803852337,
+        "lng":-1.7767890789225471,
+        "room_code":
+        [
+            "SB5/09"
+        ]
+    },
+    {
+        "building_name":"Sovereign Design House",
+        "lat":53.641895027194515,
+        "lng":-1.78077570723024,
+        "room_code":
+        [
+            "SDG/05"
+        ]
+    },
+    {
+        "building_name":"Student Central",
+        "lat":53.64440464894501,
+        "lng":-1.7770517558822907,
+        "room_code":
+        [
+            "SC4/06"
+        ]
+    }
+]

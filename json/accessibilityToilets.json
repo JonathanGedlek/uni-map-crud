@@ -1,0 +1,295 @@
+[
+    {
+        "building_name": "Buckley Innovation Centre",
+        "lat": 53.64160111376426,
+        "lng": -1.7770653397051772,
+        "room_name": [
+            "BIC1/06",
+            "BIC2/06",
+            "BICG/04",
+            "BICG/05",
+            "BICG/11"
+        ]
+    },
+    {
+        "building_name": "Atkinson Holt",
+        "lat": 53.645196188391616,
+        "lng": -1.7746996157625938,
+        "room_name": [
+            "AHG/03"
+        ]
+    },
+    {
+        "building_name": "Bronte Lecture Theatre",
+        "lat": 53.64286834615016,
+        "lng": -1.7784748881499213,
+        "room_name": [
+            "BL1/10",
+            "BLG/02",
+            "BLG/13"
+        ]
+    },
+    {
+        "building_name": "Haslett",
+        "lat": 53.641685365401756,
+        "lng": -1.7776527930781238,
+        "room_name": [
+            "HA1/01A",
+            "HA2/01A",
+            "HA3/02",
+            "HA4/02",
+            "HAG/01A",
+            "HAG/27"
+        ]
+    },
+    {
+        "building_name": "Sp\u00e4rck Jones",
+        "lat": 53.641166988843686,
+        "lng": -1.778575472979247,
+        "room_name": [
+            "SJ2/13",
+            "SJ4/15",
+            "SJG/09",
+            "SJG/14",
+            "SJG/34"
+        ]
+    },
+    {
+        "building_name": "Richard Steinitz",
+        "lat": 53.644151582912855,
+        "lng": -1.777918296865879,
+        "room_name": [
+            "RS1/36",
+            "RS2/09",
+            "RS3/35",
+            "RSG/06"
+        ]
+    },
+    {
+        "building_name": "Edith Key",
+        "lat": 53.64218788656618,
+        "lng": -1.7783729169859686,
+        "room_name": [
+            "EK1/06",
+            "EK2/05",
+            "EK3/08",
+            "EKG/06"
+        ]
+    },
+    {
+        "building_name": "Firth Street",
+        "lat": 53.6403496681864,
+        "lng": -1.7782621361668705,
+        "room_name": [
+            "FDG/08"
+        ]
+    },
+    {
+        "building_name": "Harold Wilson",
+        "lat": 53.64354449780995,
+        "lng": -1.778488255853985,
+        "room_name": [
+            "HW1/22",
+            "HW2/34",
+            "HW3/35",
+            "HWG/24"
+        ]
+    },
+    {
+        "building_name": "Charles Sikes",
+        "lat": 53.64314402166264,
+        "lng": -1.7761821042256232,
+        "room_name": [
+            "CS1/32",
+            "CS1/01D",
+            "CS2/41",
+            "CS3/08",
+            "CSG/30"
+        ]
+    },
+    {
+        "building_name": "Lockside",
+        "lat": 53.64210674916864,
+        "lng": -1.7769770173585808,
+        "room_name": [
+            "LS1/07",
+            "LS2/05",
+            "LSG/04"
+        ]
+    },
+    {
+        "building_name": "Oastler",
+        "lat": 53.64482329934865,
+        "lng": -1.7771986878101953,
+        "room_name": [
+            "OA3/15",
+            "OA4/23",
+            "OA5/23",
+            "OA6/20",
+            "OA7/36"
+        ]
+    },
+    {
+        "building_name": "Queen St. Building",
+        "lat": 53.64226693367971,
+        "lng": -1.7803973737654633,
+        "room_name": [
+            "QSBG/07",
+            "QSBG/12",
+            "QSBG/18"
+        ]
+    },
+    {
+        "building_name": "Queen St. South Annexe",
+        "lat": 53.64202270219083,
+        "lng": -1.7803565501756147,
+        "room_name": [
+            "QSA/04"
+        ]
+    },
+    {
+        "building_name": "Queen St. Studios",
+        "lat": 53.640955498149374,
+        "lng": -1.780541488115197,
+        "room_name": [
+            "QSS1/05",
+            "QSS2/04",
+            "QSSG/08"
+        ]
+    },
+    {
+        "building_name": "Ramsden",
+        "lat": 53.64295989482017,
+        "lng": -1.780050695455444,
+        "room_name": [
+            "R1/03A",
+            "R2/01",
+            "R3/03",
+            "RG/07"
+        ]
+    },
+    {
+        "building_name": "Researcher Hub",
+        "lat": 53.64198036919985,
+        "lng": -1.7783514736219241,
+        "room_name": [
+            "RHG/04"
+        ]
+    },
+    {
+        "building_name": "Schwann",
+        "lat": 53.64400054836105,
+        "lng": -1.7767220236971748,
+        "room_name": [
+            "SB1/08",
+            "SB10/02",
+            "SB12/01",
+            "SB2/09",
+            "SB2/24",
+            "SB3/15",
+            "SB3/40",
+            "SB4",
+            "SB5/04",
+            "SB5/09",
+            "SB6/07",
+            "SB6/56",
+            "SB7/27",
+            "SB9/02"
+        ]
+    },
+    {
+        "building_name": "Sir John Ramsden Court",
+        "lat": 53.64440045751192,
+        "lng": -1.7754855335008024,
+        "room_name": [
+            "JRG/05"
+        ]
+    },
+    {
+        "building_name": "Sir Patrick Stewart",
+        "lat": 53.64255492236371,
+        "lng": -1.7803952556044167,
+        "room_name": [
+            "PS1/04",
+            "PS2/07",
+            "PSG/10"
+        ]
+    },
+    {
+        "building_name": "St Pauls",
+        "lat": 53.643731877929824,
+        "lng": -1.7799191722460606,
+        "room_name": [
+            "PLG/05"
+        ]
+    },
+    {
+        "building_name": "Student Central",
+        "lat": 53.6444094682853,
+        "lng": -1.7769466923875465,
+        "room_name": [
+            "SC2/01",
+            "SC3/10",
+            "SC3/11",
+            "SC4/03",
+            "SC4/33",
+            "SC5/04",
+            "SC6/02"
+        ]
+    },
+    {
+        "building_name": "Technology",
+        "lat": 53.64336885032716,
+        "lng": -1.7777524262797928,
+        "room_name": [
+            "T5/18",
+            "TC/02",
+            "TC/04",
+            "TC/06"
+        ]
+    },
+    {
+        "building_name": "Barbara Hepworth",
+        "lat": 53.64165744296578,
+        "lng": -1.7794600096804514,
+        "room_name": [
+            "BHG/01",
+            "BH1/06",
+            "BH3/04",
+            "BH4/05"
+        ]
+    },
+    {
+        "building_name": "Sovereign Design House",
+        "lat": 53.64188561412218,
+        "lng": -1.7807658598240095,
+        "room_name": [
+            "SDG/06",
+            "SDB/05"
+        ]
+    },
+    {
+        "building_name": "Cockcroft",
+        "lat": 53.64316503659108,
+        "lng": -1.7796242726818123,
+        "room_name": [
+            "CO/08"
+        ]
+    },
+    {
+        "building_name": "Joseph Priestley",
+        "lat": 53.643345407309916,
+        "lng": -1.7801767255495848,
+        "room_name": [
+            "JPW2/77",
+            "JPWG/77",
+            "JPEG/108",
+            "JPE1/106",
+            "JPE2/105",
+            "JPE3/106",
+            "JPSG/23",
+            "JPS1/29",
+            "JPS2/28"
+        ]
+    }
+]
