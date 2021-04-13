@@ -8,9 +8,12 @@ define('DB_NAME', 'map_admin');
  
 /* Attempt to connect to MySQL database */
 $mysqli = new mysqli(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_NAME);
+$conn = new PDO('mysql:host=localhost;dbname=map_admin', 'root', '');
  
 // Check connection
 if($mysqli === false){
     die("ERROR: Could not connect. " . $mysqli->connect_error);
 }
+
+
 ?>

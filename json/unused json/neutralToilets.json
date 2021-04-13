@@ -1,5 +1,7 @@
+
 [
     {
+        "id":0,
         "building_name":"Charles Sikes",
         "lat":53.64333654840196,
         "lng":-1.7761161763077582,
@@ -9,6 +11,7 @@
         ]
     },
     {
+        "id":1,
         "building_name":"Joseph Priestley",
         "lat":53.64342412926947,
         "lng":-1.7794209456278587,
@@ -31,6 +34,7 @@
         ]
     },
     {
+        "id":2,
         "building_name":"Schwann",
         "lat":53.64401803852337,
         "lng":-1.7767890789225471,
@@ -40,6 +44,7 @@
         ]
     },
     {
+        "id":3,
         "building_name":"Sovereign Design House",
         "lat":53.641895027194515,
         "lng":-1.78077570723024,
@@ -49,6 +54,7 @@
         ]
     },
     {
+        "id":4,
         "building_name":"Student Central",
         "lat":53.64440464894501,
         "lng":-1.7770517558822907,
